@@ -22,7 +22,7 @@ const App = () => {
 
   return (
     <div className="app">
-      <h1>FilmPlace</h1>
+      <h1>Filmi Dunya</h1>
 
       <div className="search">
         <input
